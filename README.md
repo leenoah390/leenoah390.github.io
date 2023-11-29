@@ -5,7 +5,7 @@ https://leenoah390.github.io/
 
 **Image credits**:\
 Wrestling belt renders: u/HexHellfire, u/JamesRhustleComedy,  u/Queenfan1099, u/same_no_koe from Reddit.\
-New Japan Pro-Wrestling, Pro Wreslting NOAH, and All Japan Pro Wrestling logos from Wikipedia, Puroresu System Wiki.\
+Wrestling promotion logos from Wikipedia, Puroresu System Wiki.\
 All profile pictures taken and edited by me, with wrestler appearances created by dnmt and others from the Steam workshop.
 
 For complete title histories for all my champions, click [here](https://docs.google.com/spreadsheets/d/1EfaLug5oRRepTqgZE5sWtbm-epf1QczVxaRCCQ85QdY/edit?usp=drive_link).
