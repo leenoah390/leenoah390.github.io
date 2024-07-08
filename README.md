@@ -1,6 +1,6 @@
 # leenoah390.github.io
 
-Pro-wrestling championship page for my eFed that I run using *Fire Pro Wrestling World*. My efed focuses on the rosters and championships of *New Japan Pro-Wrestling* (NJPW), *Pro Wrestling NOAH* (NOAH), and *All Japan Pro-Wrestling*, among other active promotions, especially those in Japan. Displays my current champions and some other basic info. All singles championships have their own links to display their complete lineage and defenses. Also, mini-profile images for each wrestler and a roster gallery.\
+Pro-wrestling championship page for my eFed that I run using *Fire Pro Wrestling World*. My efed focuses on the rosters and championships of *New Japan Pro-Wrestling*, *Pro Wrestling NOAH*, and *All Japan Pro-Wrestling*, among other active promotions, especially those in Japan. Displays my current champions and some other basic info. All singles championships have their own links to display their complete lineage and defenses. Also, mini-profile images for each wrestler and a roster gallery.\
 https://leenoah390.github.io
 
 **Image credits**:\
