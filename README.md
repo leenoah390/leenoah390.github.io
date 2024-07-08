@@ -1,6 +1,6 @@
 # leenoah390.github.io
 
-I decided to teach myself some basic `html` for fun and created my first website! It's a pro-wrestling championship page for my e-Fed that I run using *Fire Pro Wrestling World*. My e-fed focuses on the rosters and championships of *New Japan Pro-Wrestling* (NJPW), *Pro Wrestling NOAH* (NOAH), and *All Japan Pro-Wrestling*, as well as a few other catch-all titles named off the real one. Displays my current champions and some other basic info. All singles championships have their own links to display their complete lineage and defenses. Also, mini-profile images for each wrestler and a roster gallery. I may update this as my e-Fed continues, or maybe not. \
+Pro-wrestling championship page for my eFed that I run using *Fire Pro Wrestling World*. My efed focuses on the rosters and championships of *New Japan Pro-Wrestling* (NJPW), *Pro Wrestling NOAH* (NOAH), and *All Japan Pro-Wrestling*, among other active promotions, especially those in Japan. Displays my current champions and some other basic info. All singles championships have their own links to display their complete lineage and defenses. Also, mini-profile images for each wrestler and a roster gallery.\
 https://leenoah390.github.io
 
 **Image credits**:\
@@ -11,3 +11,7 @@ All profile pictures taken and edited by me, with wrestler appearances created b
 For all championship histories, click [here](https://docs.google.com/spreadsheets/d/1EfaLug5oRRepTqgZE5sWtbm-epf1QczVxaRCCQ85QdY/edit?usp=drive_link). \
 For all tournament histories, click [here](https://docs.google.com/spreadsheets/d/1v5byVOPvPefdyvNF4T-i8QjOpjb0xqMBjWiSEcpfBYk/edit?usp=drive_link). \
 For tournaments to crown inaugural champions, click [here](https://docs.google.com/spreadsheets/d/1EfaLug5oRRepTqgZE5sWtbm-epf1QczVxaRCCQ85QdY/edit?usp=drive_link).
+
+**To build your own roster**:\
+See below repo for info on how to create your own roster page for your eFed:\
+https://github.com/leenoah390/fpww_roster_builder
